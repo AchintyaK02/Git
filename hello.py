@@ -9,6 +9,4 @@ print("new branch was created")
 a = 10
 b = 23
 
-
-
-
+c= 12
